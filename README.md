@@ -1,7 +1,7 @@
 Spring Boot Send Binary For Downloading Demo
 ============================================
 
-Run `HelloController` in your IDE, or:
+Run `DemoApplication` in your IDE, or:
 
 ```
 ./mvnw package
